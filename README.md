@@ -1,4 +1,4 @@
-# react-indecision-app
+# react-expensify-app
 
 Project from the Udemy course: `The Complete React Developer Course (w/ Hooks and Redux)`
 
@@ -11,4 +11,3 @@ from this directory
 
 To build use
 `yarn run build`
-# react-expensify-app
