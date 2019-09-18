@@ -10,4 +10,4 @@ To run use
 from this directory
 
 To build use
-`yarn run build`
+`yarn run build --watch`
