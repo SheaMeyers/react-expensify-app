@@ -6,8 +6,12 @@ https://www.udemy.com/react-2nd-edition/
 
 
 To run use 
-`yarn run dev-server` 
+```
+yarn run dev-server
+``` 
 from this directory
 
 To build use
-`yarn run build --watch`
+```
+yarn run build --watch
+```
