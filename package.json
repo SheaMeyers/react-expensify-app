@@ -2,7 +2,7 @@
   "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/SheaMeyers/react-indecision-app.git",
+  "repository": "https://github.com/SheaMeyers/react-expensify-app.git",
   "author": "SheaMeyers <shea.meyers@gmail.com>",
   "license": "MIT",
   "scripts": {
