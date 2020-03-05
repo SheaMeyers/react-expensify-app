@@ -1,10 +1,11 @@
 import moment from 'moment';
+import { secondsInAMonth } from './../constants';
 
 const filtersReducerDefaultState = {
     text: '',
     sortBy: 'date',
-    startDate: null,
-    endDate: null
+    startDate: moment(moment().valueOf() - secondsInAMonth),
+    endDate: moment()
 };
 
 export default (state = filtersReducerDefaultState, action) => {
