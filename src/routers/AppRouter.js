@@ -12,9 +12,9 @@ const AppRouter = () => (
         <div>
             <Header/>
             <Switch>
-                <Route path="/" component={ExpenseDashboardPage} exact={true} />
-                <Route path="/create" component={AddExpensePage}/>
-                <Route path="/edit/:id" component={EditExpensePage}/>
+                <Route path="/react-expensify-app" component={ExpenseDashboardPage} exact={'true'} />
+                <Route path="/react-expensify-app/create" component={AddExpensePage}/>
+                <Route path="/react-expensify-app/edit/:id" component={EditExpensePage}/>
                 <Route component={NotFoundPage}/> 
             </Switch>
         </div>
