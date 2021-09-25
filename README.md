@@ -14,4 +14,4 @@ yarn run build --watch
 
 ## Live demo here
 
-https://sheameyers.com/react-expensify-app/
+https://expensify-app.sheameyers.com/

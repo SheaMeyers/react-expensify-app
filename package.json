@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/SheaMeyers/react-expensify-app.git",
-  "homepage": "http://sheameyers.github.io/react-expensify-app",
+  "homepage": "https://expensify-app.sheameyers.com/",
   "author": "SheaMeyers <shea.meyers@gmail.com>",
   "license": "MIT",
   "scripts": {
